@@ -1,4 +1,34 @@
-baseURL = 'https://tmerge.github.io/'
+baseURL = "https://tmerge.github.io/"
 languageCode = 'en-us'
-title = 'TM Page'
-theme = 're-terminal'
+title = "TM"
+subtitle = "my personal page"
+theme = "papermod"
+
+[params.assets]
+favicon = "/images/favicon.ico"
+
+[params.profileMode]
+enabled = true
+title = "Til Merge"
+subtitle = "Cloud Engineer passionate about exploring and testing new technologies. I specialize in cloud solutions and enjoy working with Linux, Python, OpenTofu, Ansible, and Jenkins. Outside of work, I love running and traveling around the globe, always seeking new experiences and inspiration."
+imageUrl = "/images/me.png"
+imageTitle = "Profile Image"
+imageWidth = 120
+imageHeight = 120
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/tmerge"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/til-merge/"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://nrw.social/@tmerge"
+
+[[params.socialIcons]]
+name = "strava"
+url = "https://www.strava.com/athletes/191920623"

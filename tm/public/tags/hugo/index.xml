@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on TM</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on TM</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 20:13:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of Hugo/PaperMod and Setting Up This Site</title>
+      <link>http://localhost:1313/posts/testpost/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/testpost/</guid>
+      <description>This post provides an overview of Hugo (PaperMod theme) and details the steps I took in setting up this website.</description>
+    </item>
+  </channel>
+</rss>
